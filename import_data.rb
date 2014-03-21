@@ -5,7 +5,7 @@ repository_mapping['SiteRepository'] = '/atg/multisite/SiteRepository'
 repository_mapping['ProductCatalog'] = '/atg/commerce/catalog/ProductCatalog'
 
 DATA_IMPORT_DIR = 'C:/ATG/ATG10.1.1/NBTY/env-install/data'
-MAX_CONSOLE_COMMAND_LENGTH = 2000
+CONSOLE_COMMAND_MAX_LENGTH = 2000
 
 
 def start_sql_repository(repository, import)
@@ -43,7 +43,7 @@ def perform_import(repository_name, repository_component)
     import = ''
     files_to_import.each do |file|
 
-      if import.length + " -import #{file}".length > MAX_CONSOLE_COMMAND_LENGTH
+      if import.length + " -import #{file}".length > CONSOLE_COMMAND_MAX_LENGTH
         start_sql_repository(repository_component, import)
         import = ''
       end
