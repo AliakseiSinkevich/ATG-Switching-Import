@@ -36,6 +36,8 @@ def perform_import(repository_name, repository_component)
   files_to_import = Dir["#{DATA_IMPORT_DIR}/#{repository_name}/*.xml"]
   files_to_import -= get_imported_files(repository_name)
 
+  files_to_import.each { |file| raise "Invalid file name: #{file}" if file.include? ' ' }
+  
   if files_to_import.empty?
     puts "Nothing to import for repository #{repository_name}."
   else
