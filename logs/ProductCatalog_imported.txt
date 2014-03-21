@@ -1,0 +1,15 @@
+C:/ATG/ATG10.1.1/NBTY/env-install/data/ProductCatalog/201309261415_ProductCatalog.xml
+C:/ATG/ATG10.1.1/NBTY/env-install/data/ProductCatalog/201310021028_ProductCatalog.xml
+C:/ATG/ATG10.1.1/NBTY/env-install/data/ProductCatalog/201310081159_ProductCatalog.xml
+C:/ATG/ATG10.1.1/NBTY/env-install/data/ProductCatalog/201310181000_special_formats_of_products.xml
+C:/ATG/ATG10.1.1/NBTY/env-install/data/ProductCatalog/201310281000_catalogfolder.xml
+C:/ATG/ATG10.1.1/NBTY/env-install/data/ProductCatalog/201310291000_gnc_catalog.xml
+C:/ATG/ATG10.1.1/NBTY/env-install/data/ProductCatalog/201311121211_wp_blog_images.xml
+C:/ATG/ATG10.1.1/NBTY/env-install/data/ProductCatalog/201312041300_sports_and_goals.xml
+C:/ATG/ATG10.1.1/NBTY/env-install/data/ProductCatalog/201312131905_set_brand_style.xml
+C:/ATG/ATG10.1.1/NBTY/env-install/data/ProductCatalog/201312261605_my_gnc_personalization.xml
+C:/ATG/ATG10.1.1/NBTY/env-install/data/ProductCatalog/201312271933_update_sports_and_goals.xml
+C:/ATG/ATG10.1.1/NBTY/env-install/data/ProductCatalog/201401031800_nutritional_ranges.xml
+C:/ATG/ATG10.1.1/NBTY/env-install/data/ProductCatalog/201401091557_description_product_data_update.xml
+C:/ATG/ATG10.1.1/NBTY/env-install/data/ProductCatalog/201402061800_gnc_sale_category.xml
+C:/ATG/ATG10.1.1/NBTY/env-install/data/ProductCatalog/201402211909_comparable_product_types.xml
